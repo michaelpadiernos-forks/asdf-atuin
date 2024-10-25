@@ -55,7 +55,7 @@ download_release() {
       url="$GH_REPO/releases/download/v${version}/atuin-aarch64-apple-darwin.tar.gz"
       ;;
     x86_64-darwin)
-      url="$GH_REPO_CBIN/releases/download/atuin-${version}/atuin-x86_64-apple-darwin.tar.gz"
+      url="$GH_REPO/releases/download/atuin-${version}/atuin-x86_64-apple-darwin.tar.gz"
       ;;
     *)
       fail "Could not determine release URL"
