@@ -27,7 +27,7 @@ Plugin:
 ```shell
 asdf plugin add atuin
 # or
-asdf plugin add atuin https://github.com/nklmilojevic/asdf-atuin.git
+asdf plugin add atuin https://github.com/michaelpadiernos-forks/asdf-atuin.git
 ```
 
 atuin:
